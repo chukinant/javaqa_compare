@@ -1,4 +1,4 @@
-package ru.netology.javaqa.cycles;
+package ru.netology.javaqa.compare;
 
 public class Main {
     public static void main(String[] args) {

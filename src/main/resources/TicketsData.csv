@@ -1,0 +1,9 @@
+from, to, price, timeFrom, timeTo
+Moscow, Kazan, 5600, 9, 11
+Moscow, Kazan, 8000, 10, 12
+Moscow, Kazan, 4000, 7, 12
+Moscow, Kazan, 4500, 8, 12
+Moscow, Kazan, 11000, 9, 11
+Moscow, Vladivostok, 20000, 9, 18
+Moscow, Vladivostok, 17000, 9, 17
+
